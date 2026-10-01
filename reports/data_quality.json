@@ -1,0 +1,10 @@
+{
+  "raw_orders": 20469,
+  "duplicate_orders_removed": 203,
+  "null_payment_filled": 409,
+  "bad_dates_dropped": 0,
+  "raw_items": 50460,
+  "invalid_quantity_removed": 151,
+  "age_outliers_fixed": 50,
+  "fact_rows": 50309
+}

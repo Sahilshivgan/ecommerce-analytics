@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+data/processed/warehouse.db
+.DS_Store

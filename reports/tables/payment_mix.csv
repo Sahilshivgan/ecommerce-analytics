@@ -1,0 +1,7 @@
+payment_method,orders,failed_pct
+UPI,7831,10.1
+Card,5157,9.7
+COD,3888,10.4
+NetBanking,1932,9.7
+Wallet,1037,10.2
+Unknown,408,11.1
